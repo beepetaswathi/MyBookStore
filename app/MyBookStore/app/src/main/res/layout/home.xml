@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".home">
+
+    <TextView
+        android:id="@+id/BookTV"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="MyBookStore"
+        android:textSize="30dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="116dp"
+        tools:layout_editor_absoluteY="69dp" />
+
+    <Button
+        android:id="@+id/BookDetailsBTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="52dp"
+        android:text="BookDetails"
+        app:layout_constraintTop_toBottomOf="@id/BookTV"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="30dp" />
+
+    <Button
+        android:id="@+id/MyInventoryBTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="MyInventory"
+        app:layout_constraintTop_toBottomOf="@id/BookDetailsBTN"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="27dp" />
+
+    <Button
+        android:id="@+id/RentalBooksBTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="RentalBooks"
+        app:layout_constraintTop_toBottomOf="@id/MyInventoryBTN"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="27dp" />
+
+    <Button
+        android:id="@+id/LatestBooksBTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="LatestBooks"
+        app:layout_constraintTop_toBottomOf="@id/RentalBooksBTN"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="27dp" />
+
+    <Button
+        android:id="@+id/openRentalBTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="openRental"
+        app:layout_constraintTop_toBottomOf="@id/LatestBooksBTN"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="27dp" />
+
+    <Button
+        android:id="@+id/LogoutBTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Logout"
+        app:layout_constraintTop_toBottomOf="@id/openRentalBTN"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="270dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
