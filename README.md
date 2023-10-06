@@ -1,21 +1,19 @@
 # MyBookStore
 
-In this milestone, your team should complete the following tasks as part of the final project.
+<!-- This app is mainly intended for book-keepers in the bookstore. Right now in the market there is no Generic app available for managing their books inventory and renting functionalities. Even though many book-keepers are going with website development it is very costly and moreover it will not be ready from day1. This app helps in Managing book inventory, Renting books, taking user feedback, etc. This will be very user friendly, easy to use and understand. 
 
-1.Finalized project proposal.
+	
+    Activities that will be created and what their intended purpose is.
 
-2.Identify any risky components
---->Uses an outside API
---->Requires functionality we will not talk about
---->Requires functionality we will talk about later (maps, media, data base services, etc.)
-
-3.Create an online repository. e.g. Bitbucket, Github etc..
-
-4.Add your GA and your instructor (Dr Hoot is Charles-Hoot) to your repo.
-
-5.Create all layouts for your application with all the features. (features doesn't have to be fully functional, they can be just widget with no functionality assigned to them.)
-
-6.We should be able to navigate through all the layouts created.
-
-7.Make sure that all of the team members have clearly defined contributions (commits to the repo) to the project.  See the repo workflow guidelines. 
-(GitHub work flow requirements.pdf)---- this link is available in the canvas.
+1.	Book-keeper Login using Email Authentication
+2.	Home Screen (3,4,5,6,7 these are available from home screen)
+3.	Find Book with details/ Update Book - return one book with details
+4.	Show My Inventory - Returns List of Inventory
+5.	Show Rented Books -  Returns List of Rented Books
+6.	Show Latest books - Returns books added  in last 7 days
+7.	Open Rental System  
+a.	Rent book - Customer name, Due Date, PhoneNumber, Book Name
+b.	Return book - Return Date, Rating, Rent Again 	
+8.	LogOut button
+ -->
+	
