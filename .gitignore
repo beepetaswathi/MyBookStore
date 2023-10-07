@@ -1,0 +1,17 @@
+MyBookStore/.gitignore
+MyBookStore/*.iml
+MyBookStore/.gradle
+/local.properties
+./MyBookStore/.idea/caches
+./MyBookStore/.idea/libraries
+./MyBookStore/.idea/modules.xml
+./MyBookStore/.idea/workspace.xml
+./MyBookStore/.idea/navEditor.xml
+MyBookStore/.idea/assetWizardSettings.xml
+MyBookStore/.DS_Store
+MyBookStore/build
+MyBookStore/captures
+MyBookStore/.externalNativeBuild
+MyBookStore/.cxx
+MyBookStore/local.properties
+MyBookStore/.idea/gradle.xml
