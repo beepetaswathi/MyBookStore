@@ -14,11 +14,6 @@ public class DeleteBook extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.deletebook_activity);
 
-        // Get the intent
-        // Get the value out of the intent with key "quality"
-        // Change the output
-        // Get the intent
-        Intent intent=getIntent();
     }
 
     public void goAction(View v){

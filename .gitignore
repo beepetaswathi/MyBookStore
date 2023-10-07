@@ -15,3 +15,5 @@ MyBookStore/.externalNativeBuild
 MyBookStore/.cxx
 MyBookStore/local.properties
 MyBookStore/.idea/gradle.xml
+MyBookStore/.idea/vcs.xml
+MyBookStore/.idea/misc.xml
