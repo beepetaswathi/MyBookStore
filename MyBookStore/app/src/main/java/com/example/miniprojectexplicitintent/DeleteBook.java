@@ -20,8 +20,6 @@ public class DeleteBook extends AppCompatActivity {
         try{
             EditText inputET = findViewById(R.id.inputET);
             String value = inputET.getText().toString();
-            // Create the intent
-            // Put the value in the intent with key "quality"
             // Start the second activity
             Intent intent = new Intent( DeleteBook.this, LastActivity.class);
             startActivity(intent);
