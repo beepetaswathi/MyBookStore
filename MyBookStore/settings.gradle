@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MiniProject Explicit Intent"
-include(":app")
+rootProject.name = "Librarystorebook"
+include ':app'

@@ -1,4 +1,4 @@
-package com.example.miniprojectexplicitintent;
+package com.example.librarystorebook;
 
 import org.junit.Test;
 
