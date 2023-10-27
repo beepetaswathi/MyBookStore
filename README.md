@@ -8,7 +8,7 @@
 1.	Book-keeper Login using Email Authentication
 2.	Home Screen (3,4,5,6,7 these are available from home screen)
 3.	Find Book with details/ Update Book - return one book with details
-4.	Show My Inventory - Returns List of Inventory
+4.	Show My Inventory -  Returns List of Inventory (available books, )
 5.	Show Rented Books -  Returns List of Rented Books
 6.	Show Latest books - Returns books added  in last 7 days
 7.	Open Rental System  
