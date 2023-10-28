@@ -98,7 +98,7 @@ public class RegisterActivity extends AppCompatActivity {
                         Toast.makeText(RegisterActivity.this,"Registertion Sucessful", Toast.LENGTH_SHORT).show();
                     }else{
                         progressDialog.dismiss();
-                        Toast.makeText(RegisterActivity.this,""+task.getException(), Toast.LENGTH_SHORT).show();
+                        Toast.makeText(RegisterActivity.this,"Registertion Failed", Toast.LENGTH_SHORT).show();
 
                     }
 
