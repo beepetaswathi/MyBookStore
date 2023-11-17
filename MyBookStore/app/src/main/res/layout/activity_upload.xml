@@ -42,15 +42,15 @@
           android:scaleType="fitXY"/>
 
       <EditText
+          android:id="@+id/uploadTopic"
           android:layout_width="match_parent"
           android:layout_height="60dp"
-          android:id="@+id/uploadTopic"
-          android:background="@drawable/draw_border"
           android:layout_marginTop="20dp"
-          android:padding="16dp"
-          android:hint="Enter book name"
+          android:background="@drawable/draw_border"
           android:gravity="start|center_vertical"
-          android:textColor="@color/green"/>
+          android:hint="Enter New book name"
+          android:padding="16dp"
+          android:textColor="@color/green" />
 
       <EditText
           android:layout_width="match_parent"

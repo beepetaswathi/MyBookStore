@@ -1,19 +1,22 @@
 # MyBookStore
+Application Name - 
+This app is mainly intended for book-keepers in the bookstore. Right now in the market there is no Generic app available for managing their books inventory. Even though many book-keepers are going with website development it is very costly and moreover it will not be ready from day1. This app helps in Managing book inventory, Adding books, removing books and updating book information, etc. This will be very user friendly, easy to use and understand
 
-<!-- This app is mainly intended for book-keepers in the bookstore. Right now in the market there is no Generic app available for managing their books inventory and renting functionalities. Even though many book-keepers are going with website development it is very costly and moreover it will not be ready from day1. This app helps in Managing book inventory, Renting books, taking user feedback, etc. This will be very user friendly, easy to use and understand. 
+ Our Team Members are
+ Patlolla Venkateshwar Reddy
+ Ramakrishna Reddy Boggula
+ Swathi Beepeta
+ Sai Sucharitha Konakanchi
 
-	
-    Activities that will be created and what their intended purpose is.
+Database Used - Firebase
 
-1.	Book-keeper Login using Email Authentication
-2.	Home Screen (3,4,5,6,7 these are available from home screen)
-3.	Find Book with details/ Update Book - return one book with details
-4.	Show My Inventory -  Returns List of Inventory (available books, )
-5.	Show Rented Books -  Returns List of Rented Books
-6.	Show Latest books - Returns books added  in last 7 days
-7.	Open Rental System  
-a.	Rent book - Customer name, Due Date, PhoneNumber, Book Name
-b.	Return book - Return Date, Rating, Rent Again 	
-8.	LogOut button
- -->
+Functionalities
+- Book-Keeper can register their account using email address
+- Book-Keeper can manage account (Update account details/Reset password)
+- Book-Keeper Can view list of available books in the inventory with details
+- Book-Keeper Can add new books to the inventory
+- Book-keeper can Update book information like author name, book details
+- Book-Keeper can Remove any book from the inventory and see updated book list
+- Book-keeper can view each book individually for more detials from the list
+- Signout securely from the application
 	

@@ -58,13 +58,22 @@ public class UpdateActivity extends AppCompatActivity {
                 new ActivityResultCallback<ActivityResult>() {
                     @Override
                     public void onActivityResult(ActivityResult result) {
-                        if (result.getResultCode() == Activity.RESULT_OK){
-                            Intent data = result.getData();
+                        if (result.getResultCode() == Activity.RESULT_OK) {
+                            handleImageSelection(result.getData());
+                        } else {
+                            showNoImageSelectedToast();
+                        }
+                    }
+
+                    private void handleImageSelection(Intent data) {
+                        if (data != null) {
                             uri = data.getData();
                             updateImage.setImageURI(uri);
-                        } else {
-                            Toast.makeText(UpdateActivity.this, "No Image Selected", Toast.LENGTH_SHORT).show();
                         }
+                    }
+
+                    private void showNoImageSelectedToast() {
+                        Toast.makeText(UpdateActivity.this, "No Image Selected", Toast.LENGTH_SHORT).show();
                     }
                 }
         );
