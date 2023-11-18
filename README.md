@@ -19,4 +19,10 @@ Functionalities
 - Book-Keeper can Remove any book from the inventory and see updated book list
 - Book-keeper can view each book individually for more detials from the list
 - Signout securely from the application
+
+Individual Contributions:
+
+Sai Sucharitha Konakanchi S554816 - Worked on update model of book created XML layouts and it's related Java Classes , it's fuctionality is the book keeper can upload images of book , update dbook details such as author name , language of book and purchased date of the book and linked it with database for successful sync . 
+
+. Worked with Team in enhancing The performance of the app , Made sure the app is functioning properly without crash .
 	
