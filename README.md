@@ -25,4 +25,8 @@ Individual Contributions:
 Sai Sucharitha Konakanchi S554816 - Worked on update model of book created XML layouts and it's related Java Classes , it's fuctionality is the book keeper can upload images of book , update dbook details such as author name , language of book and purchased date of the book and linked it with database for successful sync . 
 
 . Worked with Team in enhancing The performance of the app , Made sure the app is functioning properly without crash .
+
+Swathi Beepeta S561633 - Worked on developing home screen activity and user login pages
+where user can sign in / login into application. User can register one time using the email address and can reset their password by clicking forgot password. After login into home screen user can view the list if available books. Developed xml layouts and written java classes related to above mentioned functionalities.
+-Worked with team in enhancing and end to end testing.
 	
