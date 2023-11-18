@@ -29,3 +29,6 @@ Swathi Beepeta S561633 - Worked on developing home screen activity and user logi
 where user can sign in / login into application. User can register one time using the email address and can reset their password by clicking forgot password. After login into home screen user can view the list if available books. Developed xml layouts and written java classes related to above mentioned functionalities.
 -Worked with team in enhancing and end to end testing.
 	
+
+Rama Krishna Reddy Boggula S559309 - Worked on developing xml layout screens and java classes related to adding books functionality.When user saves a book ,it is stored in database.While user creating a book ,user can upload an image and include book information like language it is written in,author name also developed rendering page whenever it takes time to load the page this app can show a rendering page. Also worked on unit testing the complete functionality and tested end to end flow of the application
+	
