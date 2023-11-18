@@ -31,4 +31,5 @@ where user can sign in / login into application. User can register one time usin
 	
 
 Rama Krishna Reddy Boggula S559309 - Worked on developing xml layout screens and java classes related to adding books functionality.When user saves a book ,it is stored in database.While user creating a book ,user can upload an image and include book information like language it is written in,author name also developed rendering page whenever it takes time to load the page this app can show a rendering page. Also worked on unit testing the complete functionality and tested end to end flow of the application
-	
+
+Venkateshwar Reddy Patlolla S555897 - Worked on developing layout and java classes related to canceling/removing book from bookstore app functionality and worked on connecting app with Firebase database, reviewed the team members code, cleared system files to maintain git repo. also worked on logout section, where user can completely exit from the app, Tested all the functionalities end to end and done enhancements in layout and code events along with the team
