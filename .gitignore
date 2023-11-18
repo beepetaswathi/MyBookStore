@@ -17,3 +17,12 @@ MyBookStore/local.properties
 MyBookStore/.idea/gradle.xml
 MyBookStore/.idea/vcs.xml
 MyBookStore/.idea/misc.xml
+app/.gradle/7.4.2/gc.properties
+app/.gradle/7.4.2/checksums/checksums.lock
+app/.gradle/7.4.2/dependencies-accessors/dependencies-accessors.lock
+app/.gradle/7.4.2/dependencies-accessors/gc.properties
+app/.gradle/7.4.2/fileChanges/last-build.bin
+app/.gradle/7.4.2/fileHashes/fileHashes.lock
+app/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+app/.gradle/buildOutputCleanup/cache.properties
+app/.gradle/vcs-1/gc.properties
