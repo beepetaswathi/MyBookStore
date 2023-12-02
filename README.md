@@ -25,7 +25,6 @@ Login Credentails for MyBookStore Access : <br>
     Password: 123456    <br>
  
      
-
 Firebase database link which is used as storage for our application: <br>
 https://console.firebase.google.com/u/0/project/librarystorebook-5fbaa/overview  <br>
 
@@ -38,24 +37,21 @@ This application has only one type of login.<br>
  Book keeper/employees(users). <br>
  
 <b>Admin Flow:</b> <br>
-1. The Person who want to manage their inventory has to regiter account using email account for the first time, Then he can login into the account, they can also reset password by clicking on forgot password 
+1. The Person who want to manage their inventory has to regiter account using email account for the first time, Then he can login into the account, they can also reset password by clicking on forgot password -completed
 
-2. After logining to the account, user can view home page It will display list of available book in inventory, with information like book image author name, and book language 
+2. After logining to the account, user can view home page It will display list of available book in inventory, with information like book image author name, and book language -completed
 
-3. To add a book uploading an image is mandatory in order for the book to get added in to the inventory.
+3. To add a book user will click on + icon from home page and fill required details, uploading an image is mandatory in order for the book to get added in to the inventory. -completed
 
-4. To update the details of any book the same procedure has to be followed as adding book
+4. To update the details of any book, select the book from the home page and click on it a detail page will be opened their by clicking on icon at right bottom, user can able to update the book,Uploading image is mandatory for updating book -completed
 
+5.  If an user want to remove any book from the book store, he can  delete it by clicking on the delete button. -completed
 
-5. The app may crash if many users are logging in and using it at a time
+6. An user can sign out succesfully and securely after finsiing their activities . - completed
 
-6.  If an user want to remove any book from the book store, he can  delete it by clicking on the delete button.
+7. Note : A share and settings button has been created as a part of future improvement, It dont have any functionality
 
-7. An user can sign out succesfully and securely after finsiing their activities .
-
-8.Note : A share and settings button has been created as a part of future improvement (which doesn't work currently)
-
-
+8. Renting Books are planned for future improvement
 
 <b>Contribution of individual team members:</b><br>
 
@@ -125,3 +121,5 @@ The code represents an Android app's "about" section, featuring an activity name
 <b>DataClass.java</b><br>
 The code defines a Java class named DataClass, designed to hold information about books in a bookstore app. It contains fields for a book's title, description, language, and image, with methods to access and modify these details. Additionally, it includes a unique identifier (key) for each book entry. This class essentially acts as a structured container for managing and organizing book-related data within the app's code. 
 Corrected build files and refractored code
+
+Note- The app may crash if many users are logging in and using it at a time
