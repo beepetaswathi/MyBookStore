@@ -6,7 +6,9 @@ Information of Team Members(Team08):
 2. Swathi Beepeta(S561633)
 3. Ramakrishna Reddy Boggula (S559309)
 4. Patlolla Venkateshwar Reddy(S555897)
- 
+
+[MyBookStore GitHub Link](https://github.com/beepetaswathi/MyBookStore)
+
 Application Information:   <br>
 
 This application is intended to store a record of available books in a bookstore for the book-keeper where the bookkeeper and his employees can  update their inventory . This will help book keeper to manage their inventory like adding new book, updating book information and deleting a book. The book store owner(book-keeper) can create an account and update the inventory, as well as his employees by logging in using their credentials  <br>
