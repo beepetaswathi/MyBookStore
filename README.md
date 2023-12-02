@@ -15,6 +15,12 @@ This application is intended to store a record of available books in a bookstore
 Login Credentails for MyBookStore Access : <br>
  1. UserName: vreddy0918@gmail.com  <br>
     Password: Venk@t123    <br>
+ 2. UserName: rkboggula009@gmail.com  <br>
+    Password: 123456789    <br>
+ 3. UserName: swathibeepta10@gmail.com  <br>
+    Password: swathi54321    <br>     
+ 4. UserName: suchi999@gmail.com  <br>
+    Password: 123456    <br>
  
      
 
