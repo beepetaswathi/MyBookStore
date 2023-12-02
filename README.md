@@ -76,6 +76,19 @@ where user can sign in / login into application. User can register one time usin
 -Worked with team in enhancing and end to end testing.
 	
 
-Rama Krishna Reddy Boggula S559309 - Worked on developing xml layout screens and java classes related to adding books functionality.When user saves a book ,it is stored in database.While user creating a book ,user can upload an image and include book information like language it is written in,author name also developed rendering page whenever it takes time to load the page this app can show a rendering page. Also worked on unit testing the complete functionality and tested end to end flow of the application
+<b>Rama Krishna Reddy Boggula(S559309):</b><br>
+<b>Author name,language of book for activity_upload </b><br>
+<b>Updated Toast message in Registeractivity.Java</b><br>
+<b>Removed system files and old version files</b><br>
+
+<b>Author name,language of book and book name in activity_upload </b><br>
+Enter the author's name for precise cataloging.it helps organize books systematically, enabling quick retrieval and categorization.Specify the language in which the book is written.it allows bookkeepers to streamline searches based on language preferences and cater to diverse customer needs.Input the title of the book for accurate identification.Forms the backbone of the inventory system, making it easier to manage, locate, and update book details.<br>
+
+<b>Updated Toast message in Registeractivity.Java</b><br>
+The purpose of adding the Toast message is to provide clear and meaningful feedback to the user regarding the outcome of their registration attempt.<br>
+
+<b>Removed system files and old version files</b><br>
+To make the app work more effectively and efficiently , i removed unnecessary files and modified them for the app to run successfully<br>
+
 
 Venkateshwar Reddy Patlolla S555897 - Worked on developing layout and java classes related to canceling/removing book from bookstore app functionality and worked on connecting app with Firebase database, reviewed the team members code, cleared system files to maintain git repo. also worked on logout section, where user can completely exit from the app, Tested all the functionalities end to end and done enhancements in layout and code events along with the team
