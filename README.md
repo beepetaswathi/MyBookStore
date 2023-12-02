@@ -107,4 +107,13 @@ The purpose of adding the Toast message is to provide clear and meaningful feedb
 To make the app work more effectively and efficiently , i removed unnecessary files and modified them for the app to run successfully<br>
 
 
-Venkateshwar Reddy Patlolla S555897 - Worked on developing layout and java classes related to canceling/removing book from bookstore app functionality and worked on connecting app with Firebase database, reviewed the team members code, cleared system files to maintain git repo. also worked on logout section, where user can completely exit from the app, Tested all the functionalities end to end and done enhancements in layout and code events along with the team
+<b>Patlolla Venkateshwar Reddy(S555897):</b><br>
+<b>DataClass.Java AboutActivity.java</b><br>
+<b>Build files</b><br>
+
+<b>about activity (AboutActivity.java.):</b><br>
+The code represents an Android app's "about" section, featuring an activity named "aboutActivity." It configures a navigation drawer with menu items such as home, settings, share, about, and logout. Clicking on these items triggers specific actions: navigating to different sections of the app, displaying information, or executing functions like logging out. The code uses Intent redirection to move between activities and ensures the navigation drawer closes when the activity is paused, maintaining a smooth user experience
+
+<b>DataClass.java</b><br>
+The code defines a Java class named DataClass, designed to hold information about books in a bookstore app. It contains fields for a book's title, description, language, and image, with methods to access and modify these details. Additionally, it includes a unique identifier (key) for each book entry. This class essentially acts as a structured container for managing and organizing book-related data within the app's code. 
+Corrected build files and refractored code
