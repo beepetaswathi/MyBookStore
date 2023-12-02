@@ -2,10 +2,10 @@
 Application  Name : <b> MyBookStore </b>  <br>
 
 Information of Team Members(Team08): 
-1. Patlolla Venkateshwar Reddy(S555897)
-2. Ramakrishna Reddy Boggula (S559309)
-3. Swathi Beepeta(S561633)
-4. Sai Sucharitha Konakanchi(S554816)
+1. Sai Sucharitha Konakanchi(S554816) 
+2. Swathi Beepeta(S561633)
+3. Ramakrishna Reddy Boggula (S559309)
+4. Patlolla Venkateshwar Reddy(S555897)
  
 Application Information:   <br>
 
@@ -30,9 +30,9 @@ This application has only one type of login.<br>
  Book keeper/employees(users). <br>
  
 <b>Admin Flow:</b> <br>
-1.The Person who want to manage their inventory has to regiter account using email account for the first time, Then he can login into the account, they can also reset password by clicking on forgot password 
+1. The Person who want to manage their inventory has to regiter account using email account for the first time, Then he can login into the account, they can also reset password by clicking on forgot password 
 
-2.After logining to the account, user can view home page It will display list of available book in inventory, with information like book image author name, and book language 
+2. After logining to the account, user can view home page It will display list of available book in inventory, with information like book image author name, and book language 
 
 3. To add a book uploading an image is mandatory in order for the book to get added in to the inventory.
 
@@ -71,9 +71,25 @@ Created related java files for Update activity,Upload Image,share activity.<br>
 Integrated Firebase to achieve real-time data synchronization,Utlized this cloud-based storage for our book inventory, and ensure robust user authentication and security measures
 .<br>
 
-Swathi Beepeta S561633 - Worked on developing home screen activity and user login pages
-where user can sign in / login into application. User can register one time using the email address and can reset their password by clicking forgot password. After login into home screen user can view the list if available books. Developed xml layouts and written java classes related to above mentioned functionalities.
--Worked with team in enhancing and end to end testing.
+<b>Swathi Beepeta(S561633):</b><br>
+<b>HomeActivity</b><br>
+<b>ForgotPassword</b><br>
+<b>MainActivity</b><br>
+<b>toolbar.xml,recyclerview.xml</b><br>
+<b>Java Files for related XML files</b><br>
+
+<b>Main activity, Home Activity (activity_home.xml, activity_main.):</b>
+Developed xml layout related to account Login, Register and forgot password layouts, when user open the app for the first time, they has to register their account using email and then user can login into their account, if user forgets password for their account then User can click on forgot password this will allow to reset to new password.<br>
+
+<b>Recycler View (recycler_item.xml):</b><br>
+Created recylcer view it is a RelativeLayout holds a circular ShapeableImageView displaying a default image, alongside several TextViews presenting title, priority, description, and language information. Each element is meticulously styled with fixed dimensions, colors, and alignments, creating a cohesive and visually appealing card-based UI for displaying record details.
+
+<b>Tool Bar (toolbar.xml):</b><br>
+The XML code defines a horizontal LinearLayout serving as a custom toolbar in an Android app. The toolbar includes an ImageView displaying a book icon and a TextView with the text "library book". 
+
+<b>Java Files for related XML files:</b><br>
+Created related java files for MainActivity, HomeActivity,RegisterActivity and ForgotPassword functionalities.
+And also used firebase libararies for connecting to firebase database to store login credentials and retriving account details.
 	
 
 <b>Rama Krishna Reddy Boggula(S559309):</b><br>
