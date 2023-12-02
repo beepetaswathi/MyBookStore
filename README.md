@@ -78,7 +78,7 @@ Integrated Firebase to achieve real-time data synchronization,Utlized this cloud
 <b>toolbar.xml,recyclerview.xml</b><br>
 <b>Java Files for related XML files</b><br>
 
-<b>Main activity, Home Activity (activity_home.xml, activity_main.):</b>
+<b>Main activity, Home Activity (activity_home.xml, activity_main.):</b><br>
 Developed xml layout related to account Login, Register and forgot password layouts, when user open the app for the first time, they has to register their account using email and then user can login into their account, if user forgets password for their account then User can click on forgot password this will allow to reset to new password.<br>
 
 <b>Recycler View (recycler_item.xml):</b><br>
